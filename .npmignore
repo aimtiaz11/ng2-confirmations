@@ -5,7 +5,6 @@ inline-resources.js
 index.ts
 node_modules
 out-tsc
-src
 .gitignore
 .npmignore
 .travis.yml

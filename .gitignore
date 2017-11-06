@@ -6,5 +6,6 @@ npm-debug.log
 src/demo/systemjs.config.js
 src/demo/systemjs.config.lib.js
 *.js.map
+out-tsc/*
 e2e/**/*.js
 e2e/**/*.js.map
