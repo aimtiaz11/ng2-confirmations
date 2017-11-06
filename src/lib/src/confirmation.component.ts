@@ -161,7 +161,7 @@ import {ResolveEmit} from './interfaces/resolve-emit';
         }
 
         .jaspero__dialog-actions button.primary {
-            background-color: inherit;
+            background-color: #ec4a1d;
             color: rgba(255, 255, 255, .87);
         }
 
